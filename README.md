@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Netra 👋
+💡 Cloud & AI enthusiast | 🧠 Learning and relearning | 💻 Turning ideas into working code
 
-<!--
-**nk-spec-code/nk-spec-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧰 Tech Stack & Interests
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+![Networking](https://img.shields.io/badge/-Networking-0A66C2?logo=networkx&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-FF0000?logo=cybersecurity&logoColor=white)
+![Penetration Testing](https://img.shields.io/badge/-PenTest-0078D4?logo=metasploit&logoColor=white)
+![Cloud](https://img.shields.io/badge/-Cloud-A735F0?logo=amazonaws&logoColor=white)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/netra-kan-a2372a318/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:n7583978@gmail.com)
