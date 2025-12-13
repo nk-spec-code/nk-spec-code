@@ -1,5 +1,5 @@
-# Hi, I'm Netra 👋
-💡 Cloud & Security enthusiast | 🧠 Learning and relearning | 💻 Turning ideas into working code
+# Netra 
+Cloud & Security enthusiast | Learning and relearning | Turning ideas into working code
 
 ### 🧰 Tech Stack & Interests
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
