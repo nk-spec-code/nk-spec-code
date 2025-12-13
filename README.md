@@ -1,4 +1,4 @@
-# Netra 
+# Netra Rao 
 Cloud & Security enthusiast | Learning and relearning | Turning ideas into working code
 
 ### 🧰 Tech Stack & Interests
