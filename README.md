@@ -6,10 +6,10 @@
 </h1>
 
 <!-- ===================== -->
-<!-- ROLE / IDENTITY -->
+<!-- TYPING ANIMATION -->
 <!-- ===================== -->
 <h3 align="center">
-  Cybersecurity Student | Computer Science Enthusiast | Aspiring Security Engineer
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=24&pause=1000&color=00C4FF&width=650&center=true&lines=Cybersecurity+Student+%7C+Aspiring+Security+Engineer;Blue+Team+%7C+Networking+%7C+Systems+Security;Learning+by+Breaking+and+Defending+Systems" />
 </h3>
 
 <!-- ===================== -->
@@ -23,9 +23,9 @@
 <!-- INTRODUCTION -->
 <!-- ===================== -->
 <p align="left">
-Hi 👋 I'm Netra, a cybersecurity student with a strong interest in computer science and security engineering.
-I enjoy learning how systems work under the hood, breaking them safely, and understanding how to defend
-applications, networks, and data from real-world threats.
+Hi 👋 I'm Netra, a cybersecurity student with a strong interest in computer science and defensive security.
+I focus on understanding how systems, networks, and applications fail, and how to secure them against
+real-world threats through strong fundamentals and hands-on practice.
 </p>
 
 <!-- ===================== -->
@@ -33,9 +33,10 @@ applications, networks, and data from real-world threats.
 <!-- ===================== -->
 <h3>🚀 Current Focus</h3>
 <ul>
-  <li>Foundational cybersecurity concepts (networking, threats, defense)</li>
-  <li>Hands-on labs and security tooling</li>
-  <li>Strengthening programming skills for security and systems work</li>
+  <li>Networking fundamentals and protocol-level security</li>
+  <li>Operating systems and Linux internals</li>
+  <li>Blue team concepts: detection, logging, and incident response</li>
+  <li>Security-focused programming with Python</li>
 </ul>
 
 <!-- ===================== -->
@@ -44,10 +45,10 @@ applications, networks, and data from real-world threats.
 <h3>👨‍💻 Top Technologies</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Networking-007ACC?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Security%20Fundamentals-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
 
 <!-- ===================== -->
@@ -55,8 +56,9 @@ applications, networks, and data from real-world threats.
 <!-- ===================== -->
 <h3>📌 Projects & Practice</h3>
 <ul>
-  <li><strong>Security Labs</strong> – Hands-on practice with networking and system security concepts</li>
-  <li><strong>Programming Exercises</strong> – Python and Java for problem-solving and automation</li>
+  <li><strong>Security Labs</strong> – Hands-on practice with networking, Linux, and defensive security concepts</li>
+  <li><strong>Python Security Scripts</strong> – Automation for log parsing, scanning, and analysis</li>
+  <li><strong>CTF Practice</strong> – Building foundational skills in exploitation and defense</li>
 </ul>
 
 <!-- ===================== -->
@@ -64,6 +66,7 @@ applications, networks, and data from real-world threats.
 <!-- ===================== -->
 <h3>👀 Profile Stats</h3>
 <p align="left">
+  <!-- Replace YOUR_GITHUB_USERNAME -->
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge" />
 </p>
 
@@ -85,5 +88,5 @@ applications, networks, and data from real-world threats.
 <!-- ===================== -->
 <h3>Thanks for stopping by!</h3>
 <p>
-Feel free to explore my repositories and follow along as I continue building my skills in cybersecurity and computer science.
+Always learning, always improving. Open to security internships, labs, and collaboration opportunities.
 </p>
