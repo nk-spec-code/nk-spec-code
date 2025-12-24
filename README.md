@@ -71,7 +71,7 @@ real-world threats through strong fundamentals and hands-on practice.
   <a href="https://www.linkedin.com/in/netra-kan-a2372a318/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:netrakangarla@gmail.com">
+  <a href="mailto:netra.kangarla@gmail.com">
     <img src="https://img.shields.io/badge/Email-FF4B4B?style=for-the-badge&logo=gmail" />
   </a>
 </p>
