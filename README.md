@@ -61,13 +61,6 @@ real-world threats through strong fundamentals and hands-on practice.
   <li><strong>CTF Practice</strong> – Building foundational skills in exploitation and defense</li>
 </ul>
 
-<!-- ===================== -->
-<!-- STATS -->
-<!-- ===================== -->
-<h3>👀 Profile Stats</h3>
-<p align="left">
-  <!-- Replace YOUR_GITHUB_USERNAME -->
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge" />
 </p>
 
 <!-- ===================== -->
