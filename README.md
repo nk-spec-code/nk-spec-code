@@ -2,7 +2,7 @@
 <!-- NAME -->
 <!-- ===================== -->
 <h1 align="center">
-  <strong>Netra</strong>
+  <strong>Netra Rao</strong>
 </h1>
 
 <!-- ===================== -->
