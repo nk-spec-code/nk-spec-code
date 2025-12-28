@@ -9,7 +9,7 @@
 <!-- TYPING ANIMATION -->
 <!-- ===================== -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=24&pause=1000&color=00C4FF&width=650&center=true&lines=Cybersecurity+Student+%7C+Aspiring+Security+Engineer;Blue+Team+%7C+Networking+%7C+Systems+Security;Learning+by+Breaking+and+Defending+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=24&pause=1000&color=00C4FF&width=650&center=true&lines=Security+Student+%7C+Aspiring+Security+Engineer;Blue+Team+%7C+Networking+%7C+Systems+Security;Learning+by+Breaking+and+Defending+Systems" />
 </h3>
 
 <!-- ===================== -->
