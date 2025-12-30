@@ -79,6 +79,9 @@ real-world threats through strong fundamentals and hands-on practice.
 <!-- ===================== -->
 <!-- CLOSING -->
 <!-- ===================== -->
+<p>
+I am currently searching for a Summer 2026 software developer internship 💞️ I’m always looking to collaborate on any upcoming hackathons or open-source projects
+</p>
 <h3>Thanks for stopping by!</h3>
 <p>
 Always learning, always improving. Open to security internships, labs, and collaboration opportunities.
