@@ -51,17 +51,7 @@ real-world threats through strong fundamentals and hands-on practice.
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
 
-<!-- ===================== -->
-<!-- PROJECTS -->
-<!-- ===================== -->
-<h3>📌 Projects & Practice</h3>
-<ul>
-  <li><strong>Security Labs</strong> – Hands-on practice with networking, Linux, and defensive security concepts</li>
-  <li><strong>Python Security Scripts</strong> – Automation for log parsing, scanning, and analysis</li>
-  <li><strong>CTF Practice</strong> – Building foundational skills in exploitation and defense</li>
-</ul>
 
-</p>
 
 <!-- ===================== -->
 <!-- CONNECT -->
