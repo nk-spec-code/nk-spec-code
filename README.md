@@ -23,7 +23,7 @@
 <!-- INTRODUCTION -->
 <!-- ===================== -->
 <p align="left">
-Hi I'm Netra, a cybersecurity student with a strong interest in computer science and defensive security.
+Hi! I'm Netra, a cybersecurity student with a strong interest in computer science and defensive security.
 I focus on understanding how systems, networks, and applications fail, and how to secure them against
 real-world threats through strong fundamentals and hands-on practice.
 </p>
