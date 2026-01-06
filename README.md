@@ -56,7 +56,7 @@ real-world threats through strong fundamentals and hands-on practice.
 <!-- ===================== -->
 <!-- CONNECT -->
 <!-- ===================== -->
-<h3>🔗 Connect With Me</h3>
+<h3>🔗 Let's Connect</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/netra-kan-a2372a318/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
