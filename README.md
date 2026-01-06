@@ -23,7 +23,7 @@
 <!-- INTRODUCTION -->
 <!-- ===================== -->
 <p align="left">
-Hi 👋 I'm Netra, a cybersecurity student with a strong interest in computer science and defensive security.
+Hi I'm Netra, a cybersecurity student with a strong interest in computer science and defensive security.
 I focus on understanding how systems, networks, and applications fail, and how to secure them against
 real-world threats through strong fundamentals and hands-on practice.
 </p>
@@ -31,7 +31,7 @@ real-world threats through strong fundamentals and hands-on practice.
 <!-- ===================== -->
 <!-- CURRENT FOCUS -->
 <!-- ===================== -->
-<h3>🚀 Current Focus</h3>
+<h3>Current Focus</h3>
 <ul>
   <li>Networking fundamentals and protocol-level security</li>
   <li>Operating systems and Linux internals</li>
@@ -42,7 +42,7 @@ real-world threats through strong fundamentals and hands-on practice.
 <!-- ===================== -->
 <!-- TOP TECHNOLOGIES -->
 <!-- ===================== -->
-<h3>👨‍💻 Top Technologies</h3>
+<h3>Top Technologies</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
@@ -56,7 +56,7 @@ real-world threats through strong fundamentals and hands-on practice.
 <!-- ===================== -->
 <!-- CONNECT -->
 <!-- ===================== -->
-<h3>🔗 Let's Connect</h3>
+<h3>Let's Connect</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/netra-kan-a2372a318/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
