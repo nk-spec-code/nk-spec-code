@@ -70,7 +70,7 @@ real-world threats through strong fundamentals and hands-on practice.
 <!-- CLOSING -->
 <!-- ===================== -->
 <p>
-I am currently searching for a Summer 2026 internship. Always looking to collaborate and contribute to any open-source projects, labs or hackathons!
+I am currently searching for a Summer 2026 internship. Always looking to collaborate and contribute to any open-source projects, labs or hackathons.
 </p>
 <h3>Thanks for stopping by!</h3>
 <p>
