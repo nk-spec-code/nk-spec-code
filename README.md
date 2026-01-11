@@ -1,8 +1,5 @@
-<!-- ===================== -->
-<!-- NAME -->
-<!-- ===================== -->
-<h1 align="center">
-  <strong>Netra Kangarla</strong>
+<h1 align="center" style="font-size: 3.8rem; font-weight: 800;">
+  Netra Kangarla
 </h1>
 
 <!-- ===================== -->
