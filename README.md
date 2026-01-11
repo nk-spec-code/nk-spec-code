@@ -3,7 +3,7 @@
   NETRA KANGARLA 
 </h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=26&pause=1000&color=1E40AF&width=700&center=true&lines=Cybersecurity+Student+%7C+Aspiring+Security+Engineer;Blue+Team+%7C+Networking+%7C+System+Controls;Learning+by+Breaking+and+Defending+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=26&pause=1000&color=2563EB&width=700&center=true&lines=Cybersecurity+Student+%7C+Aspiring+Security+Engineer;Blue+Team+%7C+Networking+%7C+System+Controls;Learning+by+Breaking+and+Defending+Systems" />
 </h3>
 
 <p align="center">
@@ -13,6 +13,7 @@
     style="filter: hue-rotate(200deg) saturate(1.4);"
   />
 </p>
+
 
 <p align="left">
 Hi! I'm Netra, a cybersecurity student with a strong interest in computer science and defensive security.
