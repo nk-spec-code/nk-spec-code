@@ -1,6 +1,10 @@
-<h1 align="center" style="font-size: 3.8rem; font-weight: 800;">
-  Netra Kangarla
+<!-- ===================== -->
+<!-- NAME -->
+<!-- ===================== -->
+<h1 align="center" style="font-size: 3.6rem; font-weight: 800; letter-spacing: 0.25em;">
+  NETRA
 </h1>
+
 
 <!-- ===================== -->
 <!-- TYPING ANIMATION -->
