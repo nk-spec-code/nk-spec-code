@@ -2,7 +2,7 @@
 <!-- NAME -->
 <!-- ===================== -->
 <h1 align="center" style="font-size: 3.6rem; font-weight: 800; letter-spacing: 0.25em;">
-  NETRA
+  NETRA KANGARLA 
 </h1>
 
 
