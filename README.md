@@ -1,6 +1,6 @@
 
 <h1 align="center" style="font-size: 3.6rem; font-weight: 800; letter-spacing: 0.25em;">
-  N e t r a K a n g a r l a 
+  N e t r a   K a n g a r l a 
 </h1>
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=26&pause=1000&color=2563EB&width=700&center=true&lines=Cybersecurity+Student+%7C+Aspiring+Security+Engineer;Blue+Team+%7C+Networking+%7C+System+Controls;Learning+by+Breaking+and+Defending+Systems" />
